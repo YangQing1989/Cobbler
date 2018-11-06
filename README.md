@@ -1,2 +1,1 @@
-# Cobbler
-Cobbler is a Linux installation server that allows for rapid setup of network installation environments.
+部署成功 2018-11-06
